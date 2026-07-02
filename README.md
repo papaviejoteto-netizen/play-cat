@@ -1,10 +1,12 @@
-*Partes basados en el proyecto de quarkus-super-heroes*
+Partes basados en el proyecto de quarkus-super-heroes
 
-https://github.com/quarkusio/quarkus-super-heroes
+[https://github.com/quarkusio/quarkus-super-heroes](https://github.com/quarkusio/quarkus-super-heroes)
 
+```text
 mi-proyecto-super-scale/
 ├── .gitignore
 ├── README.md
+├── CHANGELOG.md
 │
 ├── backend/                  <-- Proyecto Padre de Microservicios (Java)
 │   ├── pom.xml               <-- POM Padre (gestiona versiones comunes)

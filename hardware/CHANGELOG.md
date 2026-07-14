@@ -1,3 +1,13 @@
+## [0.1.2-alpha] - 2026-07-13
+### Changed
+- Se realizaron pruebas de emisor y receptor con `Spread Factor SF12` y se confirmó un alcance aproximado de 150 a 170 metros con el receptor dentro de una habitación y al menos una pared de por medio.
+- Tras orientar la antena del emisor hacia su dirección de transmisión, el alcance aumentó aproximadamente a 200 a 220 metros.
+- En la prueba final, al orientar ambas antenas hacia la dirección del emisor y del receptor respectivamente, se logró un alcance aproximado de 250 a 280 metros.
+
+### Noted
+- Las mediciones variaron según la orientación de las antenas y los posibles bloqueos de señal causados por las casas del entorno.
+- Aún no se realizaron pruebas en campo abierto, por lo que el alcance podría aumentar significativamente en condiciones menos obstructivas.
+
 ## [0.1.1-alpha] - 2026-07-01
 ### Changed
 - Se corrigieron detalles en la lógica de transmisión y recepción para estabilizar la comunicación entre la Pico y el módulo LoRa.
